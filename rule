@@ -1,3 +1,7 @@
+# 微信小程序广告屏蔽规则
+host-suffix, wxa.wxs.qq.com, reject
+host-suffix, wximg.wxs.qq.com, reject
+host-suffix, wxsmw.wxs.qq.com, reject
 
 host-suffix, xbiqugu.la, direct
 host-suffix, ibiquges.info, direct
