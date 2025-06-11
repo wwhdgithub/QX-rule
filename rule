@@ -1,4 +1,6 @@
+
 host-suffix, tt.vg, proxy
+host-suffix, adrules.top, proxy
 
 # 微信小程序广告屏蔽规则
 host-suffix, wxa.wxs.qq.com, reject
