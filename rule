@@ -58,7 +58,7 @@ host-suffix, uukanshu.info, proxy
 host-suffix, 31xs.com, proxy
 host-suffix, u9a9.com, proxy
 host-suffix, 51read.org, proxy
-host-suffix, greasyfork.org, direct
+host-suffix, greasyfork.org, proxy
 host-suffix, surrit.com, proxy
 host-suffix, fivetiu.com, proxy
 host-suffix, too.st, proxy
