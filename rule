@@ -1,7 +1,10 @@
-
+host-suffix, msmp.abchina.com.cn, reject
 host-suffix, tongrenshe.cc, proxy
 host-suffix, tt.vg, proxy
 host-suffix, adrules.top, proxy
+
+#农行代理检测屏蔽
+host-suffix, msmp.abchina.com.cn, reject
 
 # 微信小程序广告屏蔽规则
 host-suffix, wxa.wxs.qq.com, reject
