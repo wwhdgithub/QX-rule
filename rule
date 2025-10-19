@@ -3,6 +3,10 @@ host-suffix, tongrenshe.cc, proxy
 host-suffix, tt.vg, proxy
 host-suffix, adrules.top, proxy
 
+#淘宝热启动开屏广告屏蔽
+host, heic.alicdn.com ,reject
+host-suffix, h-adashx.ut.taobao.com ,reject
+
 #农行代理检测屏蔽
 host, msmp.abchina.com.cn, reject
 
